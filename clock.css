@@ -1,0 +1,54 @@
+body {
+    background-color: darkgray;
+}
+
+.container {
+    border: 2px solid black;
+    border-radius: 10px;
+
+    font-size: 30px;
+    font-weight: bolder;
+
+    text-align: center;
+
+    box-shadow: 10px 10px 10px blue;
+    background-color: black;
+    color: white;
+}
+
+.clock_12 {
+    border: 2px solid black;
+    border-radius: 10px;
+
+    margin: 50px;
+
+    font-size: 30px;
+    font-weight: bolder;
+
+    text-align: center;
+
+    box-shadow: 10px 10px 10px blue;
+    background-color: black;
+    color: white;
+}
+
+.header_text {
+    font-size: 50px;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+
+.header_text {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.main_container {
+    margin: 150px 550px;
+}
